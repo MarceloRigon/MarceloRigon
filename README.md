@@ -1,15 +1,13 @@
   <!-- Presentation -->
-  ## Hello!👋 Welcome to my profile, my name is Marcelo Rigon and here i share my projects and new ideas. I hope to help solve problems and learn from the community as well.</br>
+  ## Hello!👋 Welcome to my profile, here i share my projects and new ideas. I hope to help solve problems and learn from the community as well.</br>
 
-  🌱 I'm a Quality Analyst with a little over 2 years of experience. 
+  🌱 I am a Software Quality Assurance (QA) professional with over 5 years' experience in the technology sector, with a degree in Information Technology Management and Software Development. Throughout my career, I have developed solid skills in the area of Quality Assurance, working with manual testing, automated testing, software validation, as well as having knowledge of software development and databases. 
   </br>
  
   <!-- Dropdown -->
  ## 👨‍💻 More about me</summary></br> 
 
-  💬 I'm 28 years old, currently living in Brazil. I have advanced level in English and have experience with  HTML, CSS, Bootstrap, NodeJS, ReactJS, Vue, JavaScript, TypeScript, Kubernetes, Docker, Cypress, JUnit, RestAssured, BDD, TDD, Version control using Azure DevOps, API/RestAPI , SQLServer, Data structures and algorithms knowledge. I'm also have great ease in relating to people, i'm very accessible to answer questions and also to learn from other people.</br> 
-
-  ⚡ I enjoy reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.</br> </br> 
+  💬 I'm 28 years old, currently living in Brazil. I am constantly focused on evolution, seeking to improve my technical skills and contribute directly to the delivery of robust, scalable and high-quality software, with an emphasis on automation, risk mitigation, operational efficiency and continuous improvement of agile development processes.</br> 
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=devrigon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="250" alt="stats graph"  />
